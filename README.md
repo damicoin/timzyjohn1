@@ -1,4 +1,4 @@
-🚀 DAMICOIN
+##🚀 DAMICOIN ##
 
 Building the Future of Decentralized Finance.
 
